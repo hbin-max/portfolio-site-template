@@ -1,0 +1,6 @@
+/personal/
+/dist/
+node_modules/
+.env
+.env.*
+*.log
