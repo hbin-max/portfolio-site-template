@@ -12,6 +12,8 @@ npm run build
 
 打开 `dist/template/index.html`。修改 `content/example.json` 可以替换样例内容。每个项目的 `id` 是唯一的小写字母、数字和连字符组成的标识，决定案例页链接。项目列表的前三项会出现在首页。样式集中在 `src/site.css`。
 
+项目可填写 `image` 和 `imageAlt`。图片路径相对于资料 JSON 文件，第一项项目图同时用于首页的显影互动。访客也可点击按钮切换原图。
+
 ## 维护个人版本
 
 把示例资料复制到 `personal/profile.json`，替换为个人信息，再运行：

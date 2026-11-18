@@ -1,5 +1,6 @@
 {
   "name": "林小满",
+  "nameLatin": "Xiaoman Lin",
   "tagline": "设计研究生 · 产品设计作品集",
   "intro": "这里收录我的设计项目、学习经历，以及在校外做的作品。",
   "education": [
@@ -13,6 +14,8 @@
       "id": "campus-guide",
       "title": "校园导览",
       "type": "课程项目示例",
+      "image": "assets/campus-guide.webp",
+      "imageAlt": "校园导览概念图，浅绿色导览标识的正面有一枚方向箭头",
       "summary": "让初次到访的学生更快找到教室与服务点。",
       "details": ["从访谈与校园走访整理出常见问路场景。", "用纸面原型比较按地点与按任务排列的两种方式。"]
     }
