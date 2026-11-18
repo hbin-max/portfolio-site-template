@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-site-template",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:personal": "node scripts/build.mjs personal"
+  }
+}
